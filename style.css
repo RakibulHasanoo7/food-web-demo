@@ -2,19 +2,68 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1 {
-    font-size: 45px;
+section {
+    display: flex;
+    padding-bottom: 40px;
 }
 
-.flexible-container {
-    display: flex;
+h1 {
+    font-size: 45px;
+    padding-bottom: 20px;
+}
+
+#color-healthy {
+    color: coral;
 }
 
 .half-width {
     width: 50%;
+    padding: 0 5% 5% 5%;
 }
 
 .half-width img {
-    width: 30%;
-    align-items: right;
+    width: 100%;
+    padding-left: 10%;
+    padding-top: 30%;
+}
+
+.first-p {
+    padding-bottom: 20px;
+    font-size: 12px;
+
+}
+
+#ancor-order {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 900;
+    background-image: linear-gradient(to left, orange, coral);
+    padding: 10px 25px;
+    border-radius: 20px;
+}
+
+.backgroun-img {
+    background-image: url(images/Frame-57.jpg);
+    background-repeat: no-repeat;
+    background-size: initial;
+    height: 400px;
+    padding: 0;
+}
+
+#owner-img {
+    height: 320px;
+    width: 200px;
+    padding-top: 80px;
+    padding-left: 25%;
+}
+
+#ancor-contact {
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 900;
+    background-image: linear-gradient(to left, orange, coral);
+    padding: 10px 25px;
+    border-radius: 20px;
 }
