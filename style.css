@@ -1,0 +1,11 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#unique-color {
+    color: coral;
+}
+
+.main-heading {
+    font-size: 45px;
+}
