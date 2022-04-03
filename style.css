@@ -4,12 +4,12 @@ body {
 
 section {
     display: flex;
-    padding-bottom: 40px;
+    padding-top: 5%;
 }
 
 h1 {
-    font-size: 45px;
-    padding-bottom: 20px;
+    font-size: 75px;
+    padding-bottom: 10px;
 }
 
 #color-healthy {
@@ -24,46 +24,161 @@ h1 {
 .half-width img {
     width: 100%;
     padding-left: 10%;
-    padding-top: 30%;
+    padding-bottom: 5%;
 }
 
 .first-p {
-    padding-bottom: 20px;
-    font-size: 12px;
+    padding-bottom: 100px;
+    font-size: 27px;
 
 }
 
 #ancor-order {
+
     color: white;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 900;
     background-image: linear-gradient(to left, orange, coral);
-    padding: 10px 25px;
-    border-radius: 20px;
+    padding: 20px 60px;
+    border-radius: 40px;
 }
 
 .backgroun-img {
     background-image: url(images/Frame-57.jpg);
     background-repeat: no-repeat;
     background-size: initial;
-    height: 400px;
-    padding: 0;
+    height: 600px;
+    padding: 50px;
 }
 
 #owner-img {
-    height: 320px;
-    width: 200px;
-    padding-top: 80px;
-    padding-left: 25%;
+    height: 650px;
+    width: 450px;
+}
+
+#about-me {
+    font-size: 100px;
+}
+
+.about {
+    font-size: 23px;
+    padding-bottom: 60px;
+}
+
+#recipies-deatails {
+    margin: 5px 50px 5px;
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+
+#recipies {
+    color: rgb(83, 83, 83);
 }
 
 #ancor-contact {
     color: white;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 25px;
     font-weight: 900;
-    background-image: linear-gradient(to left, orange, coral);
-    padding: 10px 25px;
-    border-radius: 20px;
+    background-image: linear-gradient(to right, orange, coral);
+    padding: 10px 60px;
+    border-radius: 40px;
+}
+
+#recipies-div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+
+.third-one-width {
+    display: flex;
+    padding-bottom: 10%;
+}
+
+.third-one-width img {
+    width: 100%;
+    padding-top: 2%;
+    padding-bottom: 10%;
+}
+
+.chocolate-vorta {
+    border: 1px;
+    border-radius: 50px;
+    box-shadow: 2px 5px 10px;
+    padding: 20px 10px 50px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+.dimer-achar {
+    border: 1px;
+    border-radius: 50px;
+    box-shadow: 2px 5px 10px;
+    padding: 20px 10px 50px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+
+}
+
+.gorur-salat {
+    border: 1px;
+    border-radius: 50px;
+    box-shadow: 2px 5px 10px;
+    padding: 10px;
+    margin-left: 3%;
+    margin-right: 3%;
+
+}
+
+.menu-details {
+    font-size: 25px;
+    padding-bottom: 25px;
+}
+
+.social-media {
+    border-width: 90%;
+    box-shadow: 1px 2px 10px;
+    border-radius: 40px;
+    padding-left: 10%;
+    padding-bottom: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 15%;
+    line-height: 0;
+}
+
+#youtube {
+    padding-right: 0;
+}
+
+#instagram {
+    padding-left: 20%;
+}
+
+#dribbble {
+    padding-left: 20%;
+}
+
+.social-profile {
+    font-size: 90px;
+}
+
+.social-name {
+    font-size: 15px;
+}
+
+#web-name-color {
+    color: chocolate;
+}
+
+.footer-text {
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    text-align: center;
+    padding: 2% 5% 5%;
 }
